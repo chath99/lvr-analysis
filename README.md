@@ -1,2 +1,2 @@
 # lvr-analysis
- Analyse on the profitability and risk of leveraging into equity investments
+ Analysis on the profitability and risk of leveraging into equity investments
